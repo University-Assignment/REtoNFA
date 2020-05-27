@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\ghks0\Desktop\Dev\C\REtoNFA\REtoNFA\Main.c(40): warning C4172: 지역 변수 또는 임시: re_의 주소를 반환하고 있습니다.
+C:\Users\ghks0\Desktop\Dev\C\REtoNFA\REtoNFA\Main.c(80): warning C4172: 지역 변수 또는 임시: post의 주소를 반환하고 있습니다.
+  REtoNFA.vcxproj -> C:\Users\ghks0\Desktop\Dev\C\REtoNFA\Debug\REtoNFA.exe
